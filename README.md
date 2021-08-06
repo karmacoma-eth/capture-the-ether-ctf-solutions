@@ -4,6 +4,7 @@ For most of these, I used Nader's excellent tutorial for a React + Ethers app an
 
 [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 
 
+## Solutions
 
 <details>
     <summary>👋 Choose a Nickname</summary>
@@ -214,7 +215,7 @@ contract Guesser {
 </details>
 
 <details>
-    <summary>🍳 Guess the block hash/summary>
+    <summary>🍳 Guess the block hash</summary>
 
 Relevant [Solidity docs](https://docs.soliditylang.org/en/v0.8.6/units-and-global-variables.html?highlight=blockhash#block-and-transaction-properties):
 
